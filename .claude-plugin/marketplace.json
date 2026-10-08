@@ -1,0 +1,19 @@
+{
+  "name": "stoobly",
+  "owner": {
+    "name": "Stoobly",
+    "url": "https://stoobly.com"
+  },
+  "plugins": [
+    {
+      "name": "stoobly",
+      "source": "./plugin",
+      "description": "Stoobly skills for API mocking and E2E testing — set up a scaffold, wire the JS client, update recorded requests, and troubleshoot. Start with /stoobly.",
+      "version": "0.1.0",
+      "license": "Apache-2.0",
+      "author": {
+        "name": "Stoobly"
+      }
+    }
+  ]
+}

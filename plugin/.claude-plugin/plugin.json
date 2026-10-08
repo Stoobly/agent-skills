@@ -1,0 +1,10 @@
+{
+  "name": "stoobly",
+  "description": "Stoobly skills for API mocking and E2E testing — set up a scaffold, wire the JS client, update recorded requests, and troubleshoot. Start with /stoobly.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Stoobly"
+  },
+  "homepage": "https://stoobly.com",
+  "repository": "https://github.com/Stoobly/agent-skills"
+}
